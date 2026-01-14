@@ -1,5 +1,4 @@
 # DS2 – Spring 2026 – L4
-📘 **Habib University**
 
 This repository contains **practice C++ code examples** for the **Data Structures II (DS2)** course, **Spring 2026**, **L4 section** at **Habib University**.
 
